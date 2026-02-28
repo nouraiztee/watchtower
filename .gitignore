@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore compiled binaries
+*.exe
+*.out
+*.app
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore Go modules cache
+/go/pkg/mod
