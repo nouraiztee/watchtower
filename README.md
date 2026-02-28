@@ -25,7 +25,7 @@ It collects login events and detects suspicious activity like repeated failed lo
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/watchtower.git
+git clone https://github.com/nouraiztee/watchtower.git
 cd watchtower
 ```
 
